@@ -1,0 +1,26 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    color: white;
+}
+.navbar{
+    height: 60px;
+    width: 100%;
+    background-color: #0f1111;
+}
+a{
+    text-decoration: none;
+    margin-right: 200px;
+}
+.search{
+    background-color: #f08804;
+    border-color: #f08804;
+    padding: 0px 5px 0px 5px;
+}
+.searchbar{
+    display: inline-block;
+}
+#logo{
+    color: #f08804;
+    font-size: 25px;
+}
